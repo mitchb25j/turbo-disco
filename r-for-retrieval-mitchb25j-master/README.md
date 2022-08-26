@@ -1,25 +1,3 @@
-
-82 / 100
-
-points
-     oo violation / get/set
-     method complexity 
-   1 javadoc: comments use javadoc style
-   2 javadoc: online javadoc URL not working
-     file headers
-     non protected/private attributes
-   1 Map's type (goal: good intensional choice properly declared)
-   1 Set's type (goal: good intensional choice properly declared)
-
-     compiles
-   2 test t1    (multi-doc test + stopword test)
-   1 test t2    (intersection versus union test)
-   2 test t3    (test -d provides an exact copy is not produced + @@debug test)
-   4 stress q1
-   4 stress q2
-
--- test generated no output?
-
 # search
 my first search engine!
 
